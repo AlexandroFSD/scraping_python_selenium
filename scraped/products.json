@@ -1,0 +1,362 @@
+[
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/chaz-kangeroo-hoodie",
+        "Name": "Chaz Kangeroo Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh01-gray_main.jpg",
+        "Price": "$52"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/teton-pullover-hoodie",
+        "Name": "Teton Pullover Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh02-black_main.jpg",
+        "Price": "$70"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/bruno-compete-hoodie",
+        "Name": "Bruno Compete Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh03-black_main.jpg",
+        "Price": "$63"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/frankie--sweatshirt",
+        "Name": "Frankie Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh04-green_main.jpg",
+        "Price": "$60"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/hollister-backyard-sweatshirt",
+        "Name": "Hollister Backyard Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh05-white_main.jpg",
+        "Price": "$52"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/stark-fundamental-hoodie",
+        "Name": "Stark Fundamental Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh06-blue_main.jpg",
+        "Price": "$42"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/hero-hoodie",
+        "Name": "Hero Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh07-gray_main.jpg",
+        "Price": "$54"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/oslo-trek-hoodie",
+        "Name": "Oslo Trek Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh08-brown_main.jpg",
+        "Price": "$42"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/abominable-hoodie",
+        "Name": "Abominable Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh09-blue_main.jpg",
+        "Price": "$69"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/mach-street-sweatshirt",
+        "Name": "Mach Street Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh10-blue_main.jpg",
+        "Price": "$62"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/grayson-crewneck-sweatshirt",
+        "Name": "Grayson Crewneck Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh11-white_main.jpg",
+        "Price": "$64"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/ajax-full-zip-sweatshirt",
+        "Name": "Ajax Full-Zip Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh12-green_main.jpg",
+        "Price": "$69"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/chaz-kangeroo-hoodie",
+        "Name": "Chaz Kangeroo Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh01-gray_main.jpg",
+        "Price": "$52"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/teton-pullover-hoodie",
+        "Name": "Teton Pullover Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh02-black_main.jpg",
+        "Price": "$70"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/bruno-compete-hoodie",
+        "Name": "Bruno Compete Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh03-black_main.jpg",
+        "Price": "$63"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/frankie--sweatshirt",
+        "Name": "Frankie Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh04-green_main.jpg",
+        "Price": "$60"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/hollister-backyard-sweatshirt",
+        "Name": "Hollister Backyard Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh05-white_main.jpg",
+        "Price": "$52"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/stark-fundamental-hoodie",
+        "Name": "Stark Fundamental Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh06-blue_main.jpg",
+        "Price": "$42"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/hero-hoodie",
+        "Name": "Hero Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh07-gray_main.jpg",
+        "Price": "$54"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/oslo-trek-hoodie",
+        "Name": "Oslo Trek Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh08-brown_main.jpg",
+        "Price": "$42"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/abominable-hoodie",
+        "Name": "Abominable Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh09-blue_main.jpg",
+        "Price": "$69"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/mach-street-sweatshirt",
+        "Name": "Mach Street Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh10-blue_main.jpg",
+        "Price": "$62"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/grayson-crewneck-sweatshirt",
+        "Name": "Grayson Crewneck Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh11-white_main.jpg",
+        "Price": "$64"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/ajax-full-zip-sweatshirt",
+        "Name": "Ajax Full-Zip Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh12-green_main.jpg",
+        "Price": "$69"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/grayson-crewneck-sweatshirt",
+        "Name": "Grayson Crewneck Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh11-white_main.jpg",
+        "Price": "$64"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/ajax-full-zip-sweatshirt",
+        "Name": "Ajax Full-Zip Sweatshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh12-green_main.jpg",
+        "Price": "$69"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/marco-lightweight-active-hoodie",
+        "Name": "Marco Lightweight Active Hoodie",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mh13-blue_main.jpg",
+        "Price": "$74"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/beaumont-summit-kit",
+        "Name": "Beaumont Summit Kit",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj01-yellow_main.jpg",
+        "Price": "$42"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/hyperion-elements-jacket",
+        "Name": "Hyperion Elements Jacket",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj02-green_main.jpg",
+        "Price": "$51"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/montana-wind-jacket",
+        "Name": "Montana Wind Jacket",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj03-black_main.jpg",
+        "Price": "$49"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/kenobi-trail-jacket",
+        "Name": "Kenobi Trail Jacket",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj04-black_main.jpg",
+        "Price": "$47"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/jupiter-all-weather-trainer",
+        "Name": "Jupiter All-Weather Trainer",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj06-blue_main.jpg",
+        "Price": "$56.99"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/orion-two-tone-fitted-jacket",
+        "Name": "Orion Two-Tone Fitted Jacket",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj07-red_main.jpg",
+        "Price": "$72"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/lando-gym-jacket",
+        "Name": "Lando Gym Jacket",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj08-gray_main.jpg",
+        "Price": "$99"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/taurus-elements-shell",
+        "Name": "Taurus Elements Shell",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj09-yellow_main.jpg",
+        "Price": "$65"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/mars-heattech&trade;-pullover",
+        "Name": "Mars HeatTech&trade; Pullover",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj10-red_main.jpg",
+        "Price": "$66"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/taurus-elements-shell",
+        "Name": "Taurus Elements Shell",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj09-yellow_main.jpg",
+        "Price": "$65"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/mars-heattech&trade;-pullover",
+        "Name": "Mars HeatTech&trade; Pullover",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj10-red_main.jpg",
+        "Price": "$66"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/typhon-performance-fleece-lined-jacket",
+        "Name": "Typhon Performance Fleece-lined Jacket",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj11-black_main.jpg",
+        "Price": "$60"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/proteus-fitness-jackshirt",
+        "Name": "Proteus Fitness Jackshirt",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj12-orange_main.jpg",
+        "Price": "$45"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/caesar-warm-up-pant",
+        "Name": "Caesar Warm-Up Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp01-gray_main.jpg",
+        "Price": "$35"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/viktor-lumatech&trade;-pant",
+        "Name": "Viktor LumaTech&trade; Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp02-gray_main.jpg",
+        "Price": "$46"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/geo-insulated-jogging-pant",
+        "Name": "Geo Insulated Jogging Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp03-black_main.jpg",
+        "Price": "$51"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/supernova-sport-pant",
+        "Name": "Supernova Sport Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp04-gray_main.jpg",
+        "Price": "$45"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/kratos-gym-pant",
+        "Name": "Kratos Gym Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp05-blue_main.jpg",
+        "Price": "$57"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/mithra-warmup-pant",
+        "Name": "Mithra Warmup Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp06-gray_main.jpg",
+        "Price": "$28"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/thorpe-track-pant",
+        "Name": "Thorpe Track Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp07-blue_main.jpg",
+        "Price": "$68"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/zeppelin-yoga-pant",
+        "Name": "Zeppelin Yoga Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp08-green_main.jpg",
+        "Price": "$82"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/thorpe-track-pant",
+        "Name": "Thorpe Track Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp07-blue_main.jpg",
+        "Price": "$68"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/zeppelin-yoga-pant",
+        "Name": "Zeppelin Yoga Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp08-green_main.jpg",
+        "Price": "$82"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/livingston-all-purpose-tight",
+        "Name": "Livingston All-Purpose Tight",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp09-blue_main.jpg",
+        "Price": "$75"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/orestes-yoga-pant",
+        "Name": "Orestes Yoga Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp10-black_main.jpg",
+        "Price": "$66"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/aether-gym-pant",
+        "Name": "Aether Gym Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp11-brown_main.jpg",
+        "Price": "$74"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/cronus-yoga-pant",
+        "Name": "Cronus Yoga Pant",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mp12-black_main.jpg",
+        "Price": "$48"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/aero-daily-fitness-tee",
+        "Name": "Aero Daily Fitness Tee",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms01-blue_main.jpg",
+        "Price": "$24"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/ryker-lumatech&trade;-tee-(v-neck)",
+        "Name": "Ryker LumaTech&trade; Tee (V-neck)",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms02-gray_main.jpg",
+        "Price": "$28"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/balboa-persistence-tee",
+        "Name": "Balboa Persistence Tee",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms03-black_main.jpg",
+        "Price": "$29"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/gobi-heattec&reg;-tee",
+        "Name": "Gobi HeatTec&reg; Tee",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms04-orange_main.jpg",
+        "Price": "$29"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/helios-evercool&trade;-tee",
+        "Name": "Helios EverCool&trade; Tee",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms05-blue_main.jpg",
+        "Price": "$24"
+    },
+    {
+        "Url": "https://scrapingcourse.com/ecommerce/product/zoltan-gym-tee",
+        "Name": "Zoltan Gym Tee",
+        "Image": "https://scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ms06-blue_main.jpg",
+        "Price": "$29"
+    }
+]
