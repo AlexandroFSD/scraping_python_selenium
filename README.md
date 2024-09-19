@@ -1,5 +1,5 @@
 # Python scripts using Selenium
-<a href="https://ibb.co/QX5nZqd"><img src="https://i.ibb.co/qxZ9z45/scraping-python-selenium.png" alt="scraping-python-selenium" border="0"></a>
+<a href="https://ibb.co/QX5nZqd"><img src="https://i.ibb.co/qxZ9z45/scraping-python-selenium.png" alt="scraping-python-selenium" border="0"></a><br>
 This repository contains a collection of Python scripts that leverage the Selenium library to automate web browser interactions. These scripts provide functionalities for various web scraping and testing tasks.
 
 ## Key Features:
